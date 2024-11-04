@@ -53,6 +53,19 @@ The `toycomponents`, `expensetracker` and `test` (created  by me to just udersta
 The project is modular, with each feature separated into its own component (e.g., `Button`, `Like`). This setup allows for scalability, making it easy to add or modify components as needed.
 
 
+## Connection with Final Project
+This bootcamp project provides valuable experience with React, TypeScript, and modular component-based development, all of which are useful for developing complex, scalable front-end applications. While our final project, BlindSight, focuses on creating a local software application to help visually impaired users interact with the file system, the skills gained in this bootcamp can still be highly relevant, especially for any future web-based components that might be incorporated.
+
+### Direct Applications to Future Development:
+- **Component-Based Structure**: Building reusable components, as demonstrated in this project, will help streamline development and make it easier to manage a larger codebase. This approach can support any future plans to add a web-based interface for BlindSight, where modularity would enhance scalability and maintenance.
+
+- **TypeScript for Strong Typing**: TypeScript provides static typing, which can help prevent errors, especially in complex applications. This will be advantageous if we decide to create a robust, web-based component for BlindSight, allowing for a more maintainable codebase and reducing potential issues in production.
+
+- **Integration with Vite**: Familiarity with Vite’s fast development server and optimized build process will enhance productivity and provide insights into configuring efficient workflows. If we extend BlindSight to a web-based platform for seamless browser interaction, Vite’s capabilities will be extremely beneficial for development and performance optimization.
+
+While BlindSight currently focuses on a local software solution, these tools and methodologies learned in the bootcamp could be instrumental if we add web-based features to the project, helping to ensure a smooth, accessible, and responsive user experience for web accessing.
+
+
 
 
 
