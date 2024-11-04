@@ -8,6 +8,8 @@ Toy Components for a React Crash Course
 3. [Installation](#installation)
 4. [Additional Project](#additional-project)
 5. [Code Exploration Summary](#Code-Exploration-Summary)
+6. [Connection with Final Project](#Connection-with-Final-Project)
+7. [Reflection](#Reflection)
 
 ## Introduction
 This repository contains toy components built as part of a React crash course, providing hands-on practice with React, TypeScript, and essential libraries.
@@ -62,6 +64,14 @@ This bootcamp project provides valuable experience with React, TypeScript, and m
 - **Integration with Vite**: Familiarity with Vite’s fast development server and optimized build process will enhance productivity and provide insights into configuring efficient workflows. If we extend BlindSight to a web-based platform for seamless browser interaction, Vite’s capabilities will be extremely beneficial for development and performance optimization.
 
 While BlindSight currently focuses on a local software solution, these tools and methodologies learned in the bootcamp could be instrumental if we add web-based features to the project, helping to ensure a smooth, accessible, and responsive user experience for web accessing.
+
+
+## Reflection
+Working through the toycomponents project has been a pretty rewarding experience. It was cool to see how React and TypeScript work together with Vite, which made development feel fast and smooth. TypeScript was new to me, so it was nice to pick up a bit about it along the way. I especially liked the modular structure, with each component in its own file—it really showed me how a big project could be broken down into manageable pieces.
+
+I’ve worked on some basic websites before, and whenever I needed to see changes during development, I had to manually reload or even restart the instance. Having Vite’s setup, which instantly reflects changes, was super convenient and made things so much easier for development.
+
+One challenge was that the instructions in the README were a bit unclear, with very little guidance provided. Instructions like “clear App.tsx” and “update index.css” left me confused at first; I ended up with a blank screen initially but eventually figured out how to work around it. It also pushed me to explore more and try a test project in the default format, which helped me understand how to set up both the toycomponents project and expensetracker. Overall, this project has been a solid intro to modern front-end development practices, and I’m excited to bring what I’ve learned into my final project.
 
 
 
