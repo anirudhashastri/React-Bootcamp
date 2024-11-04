@@ -1,7 +1,5 @@
 # React-Bootcamp-Toy-Components
 
-# React-Bootcamp-Toy-Components
-
 Toy Components for a React Crash Course
 
 ## Table of Contents
