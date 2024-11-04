@@ -31,10 +31,10 @@ Another project, `expensetracker` is also include for reference.
 This repository also includes another project, `expensetracker`, for additional reference and learning.
 
 ## Code Exploration Summary
-The "toycomponents" project is structured as a TypeScript and React application, using Vite as the build tool. Here’s a breakdown of its key components:
+The `toycomponents`, `expensetracker` and `test` (created  by me to just uderstant the set up) project is structured as a TypeScript and React application, using Vite as the build tool. Here’s a breakdown of its key components:
 
 ### Main Files:
-- **App.tsx**: This is the main component file for the application. It imports several custom components (e.g., `Alert`, `Button`, `RHForm`, `Like`, `ListGroup`) and uses `useState` hooks to manage various states like counting clicks, displaying alerts, toggling "like" status, and managing a shopping list. Comments indicate exercises, suggesting that this project may be part of a learning or tutorial setup.
+- **App.tsx**: This is the main component file for the application. It imports several custom components (e.g., `Alert`, `Button`, `RHForm`, `Like`, `ListGroup`, `ExpenseFilter`) and uses `useState` hooks to manage various states like counting clicks, displaying alerts, toggling "like" status, and managing a shopping list. Comments indicate exercises, by having all this it gives a good overall idea how we can usea all these different componets in any project I would like to build in the future.
 - **main.tsx**: This file is the entry point of the React application. It renders the `App` component within the root element of `index.html` and applies global styles from `index.css` and `bootstrap.css`.
 
 ### Styling:
