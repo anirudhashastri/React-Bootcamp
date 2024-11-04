@@ -65,6 +65,26 @@ This bootcamp project provides valuable experience with React, TypeScript, and m
 
 While BlindSight currently focuses on a local software solution, these tools and methodologies learned in the bootcamp could be instrumental if we add web-based features to the project, helping to ensure a smooth, accessible, and responsive user experience for web accessing.
 
+## Screenshots
+- All screen shots are in the following order:
+    - Code 
+    - Run command 
+    - Output Screen
+- **Test vite**:
+![testcode](https://github.com/anirudhashastri/React-Bootcamp/blob/e40eda873b8696ae21c73bc3fafb685f2bea479f/Screenshots/test.png)
+![testrun](https://github.com/anirudhashastri/React-Bootcamp/blob/e40eda873b8696ae21c73bc3fafb685f2bea479f/Screenshots/test-run.png)
+![testweb](https://github.com/anirudhashastri/React-Bootcamp/blob/e40eda873b8696ae21c73bc3fafb685f2bea479f/Screenshots/test-web.png)
+
+- **toycomponents**:
+![toycode](https://github.com/anirudhashastri/React-Bootcamp/blob/e40eda873b8696ae21c73bc3fafb685f2bea479f/Screenshots/tocomponents.png)
+![toyrun](https://github.com/anirudhashastri/React-Bootcamp/blob/e40eda873b8696ae21c73bc3fafb685f2bea479f/Screenshots/toyscomponents-run.png    )
+![toyweb](https://github.com/anirudhashastri/React-Bootcamp/blob/e40eda873b8696ae21c73bc3fafb685f2bea479f/Screenshots/toyscomponemts-web.png)
+
+- **expensetracker**:
+![toycode](https://github.com/anirudhashastri/React-Bootcamp/blob/e40eda873b8696ae21c73bc3fafb685f2bea479f/Screenshots/Expenseteacker.png)
+![toyrun](https://github.com/anirudhashastri/React-Bootcamp/blob/e40eda873b8696ae21c73bc3fafb685f2bea479f/Screenshots/expensetracker-run.png )
+![toyweb](https://github.com/anirudhashastri/React-Bootcamp/blob/e40eda873b8696ae21c73bc3fafb685f2bea479f/Screenshots/expensetracker-web.png)
+
 
 ## Reflection
 Working through the toycomponents project has been a pretty rewarding experience. It was cool to see how React and TypeScript work together with Vite, which made development feel fast and smooth. TypeScript was new to me, so it was nice to pick up a bit about it along the way. I especially liked the modular structure, with each component in its own file—it really showed me how a big project could be broken down into manageable pieces.
