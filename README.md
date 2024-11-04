@@ -92,10 +92,3 @@ Working through the toycomponents project has been a pretty rewarding experience
 I’ve worked on some basic websites before, and whenever I needed to see changes during development, I had to manually reload or even restart the instance. Having Vite’s setup, which instantly reflects changes, was super convenient and made things so much easier for development.
 
 One challenge was that the instructions in the README were a bit unclear, with very little guidance provided. Instructions like “clear App.tsx” and “update index.css” left me confused at first; I ended up with a blank screen initially but eventually figured out how to work around it. It also pushed me to explore more and try a test project in the default format, which helped me understand how to set up both the toycomponents project and expensetracker. Overall, this project has been a solid intro to modern front-end development practices, and I’m excited to bring what I’ve learned into my final project.
-
-
-
-
-
-
-![testimahe](https://github.com/anirudhashastri/React-Bootcamp/blob/c8e60ba258ad3f3627c5317ad5b4fec8a03d5f91/Screenshots/Expenseteacker.png)
